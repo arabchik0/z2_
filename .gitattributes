@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git branch
+git checkout -b vetka1.
+git add -A
